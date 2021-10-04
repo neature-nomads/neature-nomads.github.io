@@ -9,7 +9,7 @@ google-ID: 'G-8JXC0N859Z'
 menu:
 - {name: 'Itinerary',  url: 'itinerary'}
 - {name: 'Posts',       url: 'sample-posts'}
-- {name: 'Tips',       url: 'sample-posts'}
+- {name: 'Tips',       url: 'tips'}
 - {name: 'About',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
